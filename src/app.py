@@ -10,8 +10,8 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🏠 LeaseMate Policy Assistant - JES | REASONING")
-st.caption("Ask questions about general leasing policies and predefined leasing questions")
+st.title("🏠 LeaseMate Policy Assistant")
+st.caption("General Policy | JES | REASONING")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
