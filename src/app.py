@@ -1,8 +1,8 @@
 import streamlit as st
 import requests
 
-BACKEND_URL = "https://ic6b4z8qin.ap-southeast-1.awsapprunner.com/api/v1/chat"
-BACKEND_BASE_URL = "https://ic6b4z8qin.ap-southeast-1.awsapprunner.com"
+BACKEND_URL = "https://2qyeht5mg9.ap-southeast-1.awsapprunner.com/api/v1/chat"
+BACKEND_BASE_URL = "https://2qyeht5mg9.ap-southeast-1.awsapprunner.com"
 
 st.set_page_config(
     page_title="LeaseMate Policy Assistant",
